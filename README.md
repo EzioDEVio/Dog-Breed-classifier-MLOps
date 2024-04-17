@@ -1,4 +1,4 @@
-For a tutorial that includes a demonstration of a MLOps pipeline, incorporating CI/CD processes, and an explanation of the workflow, it's essential to detail each step involved from model training to deployment and updates. Below is an enhanced version of the `README.md` file that introduces MLOps concepts, CI/CD pipeline implementation, and more in-depth instructions.
+[![Build and Push to GHCR](https://github.com/EzioDEVio/Dog-Breed-classifier-MLOps/actions/workflows/MLOps-ci-cd.yml/badge.svg)](https://github.com/EzioDEVio/Dog-Breed-classifier-MLOps/actions/workflows/MLOps-ci-cd.yml)
 
 
 # Dog Breed Classifier - MLOps Tutorial

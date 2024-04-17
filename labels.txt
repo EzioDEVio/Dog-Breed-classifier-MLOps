@@ -1,6 +1,6 @@
 
-0 Labrador retriever
-1 Golden Retriever
-2 German sheperd
+ Labrador retriever
+ Golden Retriever
+ German sheperd
 
 

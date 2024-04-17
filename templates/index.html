@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dog Breed Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1 class="brand">Dog Breed Classifier</h1>
+    </header>
+    
+    <main>
+        <div class="upload-area">
+            <input type="file" id="imageUpload" accept="image/*">
+            <button type="button" id="predictButton">Predict</button>
+        </div>
+        <div id="predictionResult" class="prediction-card"></div>
+        <img id="predictedImage" src="" alt="Predicted Image" style="max-width: 500px; display: none;"/>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Dog Breed Classifier</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

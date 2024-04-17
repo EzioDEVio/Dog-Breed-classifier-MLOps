@@ -1,0 +1,47 @@
+/* This is an example; update with your actual CSS */
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+.brand {
+    margin: 0;
+}
+
+.upload-area {
+    margin: 20px auto;
+}
+
+#imagePreview {
+    max-width: 300px;
+    margin: 20px auto;
+}
+
+#predictionResult {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 300px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    display: inline-block;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0;
+}

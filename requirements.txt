@@ -1,4 +1,6 @@
 
 Flask
+gunicorn
 tensorflow
 Pillow
+flask_cors  # Make sure this line is added

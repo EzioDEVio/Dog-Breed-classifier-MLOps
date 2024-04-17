@@ -1,0 +1,13 @@
+
+__pycache__/
+myenv/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.git
+.dockerignore
+Dockerfile
+*.md

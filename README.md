@@ -1,6 +1,4 @@
-Certainly! Below is a draft of a `README.md` file that outlines the process of using Teachable Machine to build a dog breed classifier application and deploying it using Flask. This file includes step-by-step instructions and explanations for each part of the process.
 
-```markdown
 # Dog Breed Classifier Using Teachable Machine and Flask
 
 This project demonstrates how to build a dog breed classifier using Google's Teachable Machine and deploy it using a Flask web application. The application allows users to upload an image of a dog and returns the predicted breed along with a confidence level.

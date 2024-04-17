@@ -1,6 +1,6 @@
 For a tutorial that includes a demonstration of a MLOps pipeline, incorporating CI/CD processes, and an explanation of the workflow, it's essential to detail each step involved from model training to deployment and updates. Below is an enhanced version of the `README.md` file that introduces MLOps concepts, CI/CD pipeline implementation, and more in-depth instructions.
 
-```markdown
+
 # Dog Breed Classifier - MLOps Tutorial
 
 This repository provides a comprehensive guide to setting up a complete MLOps pipeline for a Dog Breed Classifier application using Teachable Machine, TensorFlow, Flask, Docker, and CI/CD practices. The goal is to demonstrate how Machine Learning (ML) models are integrated within a continuous integration and continuous deployment (CI/CD) framework.
@@ -32,7 +32,7 @@ Create a basic Flask application to serve the model. The application will allow 
 
 ### Project Structure
 
-```
+
 Dog-Breed-classifier-MLOps/
 │
 ├── app/
@@ -55,7 +55,7 @@ Dog-Breed-classifier-MLOps/
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
-```
+
 
 ### Implementation
 
@@ -135,5 +135,5 @@ jobs:
 
 This tutorial provides a basic framework for building a MLOps pipeline that incorporates machine learning model training, a web application, Docker containerization, and a CI/CD workflow. It aims to guide the integration of machine learning development with production operations to improve the automation and monitoring at all steps of ML system construction.
 
-```
+
 

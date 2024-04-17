@@ -10,7 +10,7 @@ env/
 venv/
 .git
 .dockerignore
-Dockerfile
+
 *.md
 =======
 # Byte-compiled / optimized / DLL files

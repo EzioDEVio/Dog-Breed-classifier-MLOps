@@ -153,3 +153,15 @@ Before you begin, ensure you have the following installed:
 
    # Run app.py when the container launches
    CMD ["flask", "run
+
+", "--host=0.0.0.0"]
+   ```
+
+2. **Run the Docker Container**
+
+   ```bash
+   docker run -p 5000:5000 dog-breed-classifier
+   ```
+
+3. **Access the application through your browser at `http://localhost:5000/`.**
+
